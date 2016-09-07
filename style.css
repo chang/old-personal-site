@@ -129,6 +129,7 @@ h2{
   word-spacing: 50px;
   letter-spacing: 5px;
   line-height: 50px;
+  pointer-events: all;
 }
 h2 span{
   background-color:var(--main-color);
@@ -155,8 +156,9 @@ p span{
 }
 
 footer{
-  position: absolute;
-  font-size: 12px;
+  position: fixed;
+  font-family: "Open Sans";
+  font-size: 9px;
   bottom: 0;
   right: 0;
   opacity: .2;
