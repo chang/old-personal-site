@@ -184,7 +184,11 @@ h1{
 }
 p{
   font-size: 20px;
+<<<<<<< HEAD
   line-height: 35px;
+=======
+  line-height: 25px;
+>>>>>>> 4a35d2d95a2830aa33812107ce38fdad01bc3824
   width:80%;
 }
 
